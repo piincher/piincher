@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piincher" alt="piincher" /></a> </p>
 
-- 🔭 I’m currently pursing my bachelor degree in**Computer science**
+- 🔭 I’m currently pursing my master degree in **Computer science**
 
 - 👨‍💻 All of my projects are available at [https://ibrahimkouma.netlify.app/](https://ibrahimkouma.netlify.app/)
 
