@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ibrahimkouma.netlify.app/](https://ibrahimkouma.netlify.app/)
 
-- 📫 How to reach me **ikouma269@gmail.com**
+- 📫 How to reach me **ibrahim@nuvotech.tech**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
