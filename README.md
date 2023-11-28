@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piincher" alt="piincher" /></a> </p>
 
-- 🔭 I’m currently pursing my master degree in **Computer science**
+- 🔭 I’m currently pursing my master degree in **Computer science** at Southeast University China.
 
 - 👨‍💻 All of my projects are available at [https://ibrahimkouma.netlify.app/](https://ibrahimkouma.netlify.app/)
 
-- 📫 How to reach me **ibrahim@nuvotech.tech**
+- 📫 How to reach me **ikouma269@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
